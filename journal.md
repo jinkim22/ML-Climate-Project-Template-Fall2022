@@ -3,8 +3,7 @@ Week 3
 Wind
  global winds caused from differences in absorption of solar energy between the climate zones on Earth.
 
-The two main causes of large-scale [atmospheric circulation](https://en.wikipedia.org/wiki/Atmospheric_circulation)
- are the differential heating between the equator and the poles, and the rotation of the planet ([Coriolis effect](https://en.wikipedia.org/wiki/Coriolis_effect)
+The two main causes of large-scale [atmospheric circulation](https://en.wikipedia.org/wiki/Atmospheric_circulation)qnd the rotation of the planet ([Coriolis effect](https://en.wikipedia.org/wiki/Coriolis_effect)
 ).
 
 - Winds have various aspects:
