@@ -37,3 +37,15 @@ make it difficult for humans to be outside.
 Remaining task: Find more variables / features that relate to wind speeds. CO2 emission is (unsurprisingly) not a good
 indicator for how fast the winds will be for a given day. They do correlate somewhat with max temperature, and precipitation
 so there may need to be some work done in making a causal effect framework.
+
+Week 5
+did a lot of reading for preparing the tidbit presentation, but also tried to read it more in depth because the method it uses
+is very similar to what I want to do for my research
+Realizations: forecastring wind volatility is difficult because my goal is to show that there are sudden wind gusts that could
+be dangerous for humans. Sudden strong wind gusts are not recorded unfortuantely. A better approach may be to think about what
+environment allows for the most variability in wind. In other words, what factors allow for strong winds to get generated out
+of thin air? What is the relationship between CO2 emissions and those factors?
+To focus on a specific region, keep in mind that it owuld require regional CO2 emission data. Using the total CO2 emission in
+the atmosphere would be incorrect because that's for the whole globe. It may be easier to talk about trends.
+Todo: Research what allows for strong winds to get spun up, what type of strong wind events there are, and what variables are
+involved. Then, research how that can be tied back to CO2 emission, or increasing heat.
