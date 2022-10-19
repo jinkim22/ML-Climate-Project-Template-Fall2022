@@ -49,3 +49,6 @@ To focus on a specific region, keep in mind that it owuld require regional CO2 e
 the atmosphere would be incorrect because that's for the whole globe. It may be easier to talk about trends.
 Todo: Research what allows for strong winds to get spun up, what type of strong wind events there are, and what variables are
 involved. Then, research how that can be tied back to CO2 emission, or increasing heat.
+
+Week 6
+Read more of the reserach paper being used
