@@ -52,3 +52,7 @@ involved. Then, research how that can be tied back to CO2 emission, or increasin
 
 Week 6
 Read more of the reserach paper being used
+
+Week 7
+Made basic model for doing linear regression to predict precipitation as temperature / CO2 changes. Researched Clausis Clapeyron
+and started drafting introduction and problem statement.
