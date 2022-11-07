@@ -56,3 +56,6 @@ Read more of the reserach paper being used
 Week 7
 Made basic model for doing linear regression to predict precipitation as temperature / CO2 changes. Researched Clausis Clapeyron
 and started drafting introduction and problem statement.
+
+Week 8
+Spent a week exploring different research topic such as nuclear fusion for clean energy generation
