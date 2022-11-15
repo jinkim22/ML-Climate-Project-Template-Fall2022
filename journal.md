@@ -59,3 +59,7 @@ and started drafting introduction and problem statement.
 
 Week 8
 Spent a week exploring different research topic such as nuclear fusion for clean energy generation
+
+Week 9
+Looked up addditional datasets to make pivot towards making the research more about generating a useful conclusion for handling
+wind energy surplus in conjunction to volatility
